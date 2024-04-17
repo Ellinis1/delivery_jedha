@@ -1,9 +1,13 @@
 ```
 ```
-# Food_Delivery_Projet :motor_scooter: 🛵
+# Food_Delivery_Projet 🛵
 
 A cerification project about predicting food delivery time
 Includes data processing, data cleaning, EDA and machine learning model creation (using linear regression and random forest)
+
+## Dataset source 📓
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset)
 
 ## Streamlit Demo App 🌟
 
