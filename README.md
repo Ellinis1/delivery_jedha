@@ -3,7 +3,7 @@
 # Food_Delivery_Projet :motor_scooter: 🛵
 
 A cerification project about predicting food delivery time
-Includes data processing, data cleaning, EDA and machine learning model creation 9linear regression and random forest)
+Includes data processing, data cleaning, EDA and machine learning model creation (using linear regression and random forest)
 
 ## Streamlit Demo App 🌟
 
