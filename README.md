@@ -21,7 +21,7 @@ Includes data processing, data cleaning, EDA and machine learning model creation
 
 ## Canva Presentation
 
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)(https://www.canva.com/design/DAGKYgPqX00/DRP7R3cv4MIoH0XBRfVgWg/edit?utm_content=DAGKYgPqX00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAGKYgPqX00/DRP7R3cv4MIoH0XBRfVgWg/edit?utm_content=DAGKYgPqX00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Jedha Demoday Presentation
 
