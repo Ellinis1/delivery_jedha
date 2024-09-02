@@ -2,22 +2,22 @@
 ```
 # Food Delivery Projet 🛵
 
-A cerification project about predicting food delivery time
+A certification project about predicting food delivery time
 Includes data processing, data cleaning, EDA and machine learning model creation (using linear regression and random forest)
 
 ## Dataset source 📓
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset)
+Dataset includes 20 variables related to deliveries across 22 cities in India and has almost 57K lines
 
 ## Streamlit Demo App 🌟
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appappdelivery-nl9jzkxo4zurfnuqttpsbv.streamlit.app/)
-
+Demo app allows to estimate delivery time based on different factors like weather, vehicle condition, traffic conditions etc
 
 ## Streamlit GitHub Repository
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/Lamiaeidr/Streamlitappdelivery)
-
 
 ## Canva Presentation
 
