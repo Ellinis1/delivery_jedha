@@ -25,7 +25,7 @@ Business consclusions:
 
 Dashboard snapshots:
 
-![Dashboard Image]([images-/DeliveryProject4.png] "Dashboard 1")
+![Dashboard Image](https://github.com/Ellinis1/images-/blob/main/DeliveryProject4.png "Dashboard 1")
 
 ## Dataset source 📓
 
