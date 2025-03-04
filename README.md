@@ -25,7 +25,13 @@ Business consclusions:
 
 Dashboard snapshots:
 
+Executive Summary
+
 ![Dashboard Image](https://github.com/Ellinis1/images-/blob/main/DeliveryProject4.png "Dashboard 1")
+
+Average delivery time by factors
+
+![Dashboard Image] (https://github.com/Ellinis1/images-/blob/main/DeliveryProject3.png "Dashboard 2")
 
 ## Dataset source 📓
 
