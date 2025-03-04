@@ -1,5 +1,4 @@
 ```
-```
 # Food Delivery Projet 🛵
 
 A certification project about predicting food delivery time. Includes data processing, data cleaning, EDA and machine learning model creation (using linear regression and random forest), creating a Streamlit app prototype. 
@@ -22,6 +21,10 @@ Business consclusions:
 - Orders can be rebalanced between age groups
 - Scooters are the most efficient type of vehicle, they should replace some of the motorcycles
 - Delivery should be optimised with strategic geo-targeting, dynamic pricing and targeted promotions
+
+Dashboard snapshots:
+
+![Dashboard Image]([https://github.com/Ellinis1/images-/blob/main/DeliveryProject4.png?raw=true] "Dashboard 1")
 
 ## Dataset source 📓
 
